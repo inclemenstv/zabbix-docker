@@ -12,3 +12,9 @@
 Для этого нужно зайти в контейнер в интерактивном режиме:
 docker exec -it "id_conteiner" /bin/bash или docker exec -it "id_conteiner" zabbix_server -R config_cache_reload
 
+Полезные ссылки:
+https://www.youtube.com/watch?v=ScKlF0ICVYA&t=957s
+https://www.youtube.com/watch?v=PT_uqOpfHZU
+https://gist.github.com/geraldvillorente/4c60e7fdb5562f443f16ad2bbe4235ce
+https://www.zabbix.com/documentation/current/ru/manual/installation/containers
+https://hub.docker.com/r/zabbix/zabbix-web-nginx-mysql
